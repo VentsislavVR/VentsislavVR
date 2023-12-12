@@ -67,7 +67,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VentsislavVR&count_private=true&show_icons=true&theme=react)
 
   <!-- Top Languages -->
-  ![Top Languages](https://streak-stats.demolab.com/api/top-langs/?user=VentsislavVR)
+  ![Top Languages](https://streak-stats.demolab.com/api/top-langs/?username=VentsislavVR)
 
 </div>
 
